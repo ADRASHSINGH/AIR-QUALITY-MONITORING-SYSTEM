@@ -1,2 +1,2 @@
 # AIR-QUALITY-MONITORING-SYSTEM
-To develop effective and user friendly app for monitoring air for common people and warning system via mail sending to committees.
+ Air monitoring system tells about real time data of AIR QUALITY INDEX. This data is accessed by the users through our app by which they are able to know about the air they breathe. Also whenever the AQI exceeds a critical value our system will generate an auto generated e-mail to cental pollution control board so that they can take preventive measures.From  all this  data we can create a database with help of firebase or phpmyadmin.
